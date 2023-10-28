@@ -16,31 +16,30 @@ usuarios
 @pepe
 @joel
 @santiago
-@daniel
 @santi
 @victor
+@perro
 relaciones
-@mazinger, @sancho23
-@juanc, @mazinger
-@xoxojaime, @tuqui33
-@tuqui33, @mazinger
-@tuqui33, @juansito
-@sancho23, @juanc
-@terciopelo, @sancho23
-@caribedoble, @terciopelo
-@caribedoble, @radiogaga
-@africa, @caribedoble
-@africa, @totalfree
-@africa, @eder
-@totalfree, @cipriano
-@radiogaga, @totalfree
-@radiogaga, @cipriano
-@cipriano, @africa
-@cipriano, @eder
-@eder, @pepe
-@eder, @joel
-@joel, @santiago
-@joel, @santi
-@santiago, @daniel
-@daniel, @pepe
-@victor, @joel
+@mazinger, @juanc
+@mazinger, @tuqui33
+@juanc, @sancho23
+@tuqui33, @xoxojaime
+@sancho23, @mazinger
+@sancho23, @terciopelo
+@terciopelo, @caribedoble
+@caribedoble, @africa
+@africa, @cipriano
+@totalfree, @africa
+@totalfree, @radiogaga
+@radiogaga, @caribedoble
+@cipriano, @totalfree
+@cipriano, @radiogaga
+@eder, @africa
+@eder, @cipriano
+@juansito, @tuqui33
+@pepe, @eder
+@joel, @eder
+@joel, @victor
+@joel, @perro
+@santiago, @joel
+@santi, @joel
