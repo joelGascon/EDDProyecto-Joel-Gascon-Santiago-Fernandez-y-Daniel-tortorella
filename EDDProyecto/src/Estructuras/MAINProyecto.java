@@ -8,7 +8,7 @@ import Ventanas.Ventana;
 
 
 
-public class EDDProyecto {
+public class MAINProyecto {
 
     /**
      * @param args the command line arguments
