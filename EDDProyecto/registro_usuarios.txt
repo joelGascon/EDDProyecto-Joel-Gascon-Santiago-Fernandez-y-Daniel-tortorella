@@ -18,7 +18,6 @@ usuarios
 @santiago
 @santi
 @victor
-@perro
 relaciones
 @mazinger, @juanc
 @mazinger, @tuqui33
@@ -28,18 +27,11 @@ relaciones
 @sancho23, @terciopelo
 @terciopelo, @caribedoble
 @caribedoble, @africa
-@africa, @cipriano
 @totalfree, @africa
 @totalfree, @radiogaga
 @radiogaga, @caribedoble
 @cipriano, @totalfree
-@cipriano, @radiogaga
 @eder, @africa
-@eder, @cipriano
+@eder, @santi
 @juansito, @tuqui33
-@pepe, @eder
-@joel, @eder
-@joel, @victor
-@joel, @perro
-@santiago, @joel
-@santi, @joel
+@joel, @santi

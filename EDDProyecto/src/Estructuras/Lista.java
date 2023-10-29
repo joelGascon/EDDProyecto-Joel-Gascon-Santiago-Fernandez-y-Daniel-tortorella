@@ -32,7 +32,7 @@ public class Lista {
     public void eliminar_seguidor( String nombre_usuario){
         User eliminar = buscar_usuario(nombre_usuario);
         if(eliminar == null){
-            System.out.println("Nodo no encontrado");
+            System.out.println("");
         }else{
            
             User anterior = primero;
